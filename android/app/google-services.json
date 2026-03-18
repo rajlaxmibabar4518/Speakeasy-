@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "58904506262",
+    "project_id": "speakeasyapp-5e906",
+    "storage_bucket": "speakeasyapp-5e906.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58904506262:android:0cdb8327b646d2605af7b7",
+        "android_client_info": {
+          "package_name": "com.example.speakeasy_app_fixed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58904506262-c7t5sgeh4thijhg1oiaui0fku5mv8su0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speakeasy_app_fixed",
+            "certificate_hash": "c1d82d3844cead81b2d41b9f7ce2e5b67240ed96"
+          }
+        },
+        {
+          "client_id": "58904506262-l9ju5di7joabf73b2e2r17m2jfrofd0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8rgbtR91lAG1JOYtIVVdorgobLVyREsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58904506262-l9ju5di7joabf73b2e2r17m2jfrofd0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
